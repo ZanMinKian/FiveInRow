@@ -5,4 +5,4 @@
 
 综合而言，人类胜率低于50%
 
-AI主要在FIRComputer类实现
+本程序主要为了通过Java实现五子棋的AI算法，主要在FIRComputer类实现
